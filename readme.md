@@ -770,6 +770,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [QSharp](q/QSharp.qs)
 * [QU](q/QU.qu)
 * [QuakeC](q/QuakeC.qc)
+* [QuantoScript](q/QuantoScript.qs)
 * [QuartzComposer](q/QuartzComposer.qtz)
 * [Qugord](q/Qugord.qugord)
 * [Quorum](q/Quorum.quorum)
